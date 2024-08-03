@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with FurryFriends App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+We Keep Your Pets Happy All Time
+Exceptional Care for Your Furry Family Members
 
 ## Available Scripts
 
